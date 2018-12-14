@@ -111,6 +111,7 @@ Change username/password via the webui in the webui section of settings.
 
 ## Versions
 
++ **13.12.18:** Bump qbitorrent to 4.1.4.
 + **25.09.18:** Use buildstage type build, bump qbitorrent to 4.1.3.
 + **14.08.18:** Rebase to alpine 3.8, bump libtorrent to 1.1.9 and qbitorrent to 4.1.2.
 + **08.06.18:** Bump qbitorrent to 4.1.1.
