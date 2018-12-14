@@ -2,7 +2,7 @@ FROM lsiobase/alpine.armhf:3.8 as buildstage
 ############## build stage ##############
 
 # package versions
-ARG QBITTORRENT_VER="4.1.3"
+ARG QBITTORRENT_VER="4.1.4"
 ARG RASTERBAR_VER="1.1.9"
 
 RUN \
